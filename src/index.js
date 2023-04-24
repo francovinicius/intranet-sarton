@@ -8,6 +8,7 @@ import Marketing from "./Components/Marketing";
 import Contacts from "./Components/Contacts";
 import Footer from "./Components/Footer";
 import InfoGerais from "./Pages/InfoGerais";
+import Mod19 from "./Pages/Mod19";
 
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
@@ -19,6 +20,7 @@ root.render(
 
         <Routes>
             <Route path="/" element={<InfoGerais />} />
+            <Route path="/mod19" element={<Mod19 />} />
         </Routes>
 
         <Contacts />

@@ -20,7 +20,7 @@ export default function () {
                         </div>
                         <div className="col-md-8">
                             <div className="card-body" id="normas-diretrizes">
-                                <a href="./pages/organograma.html">
+                                <a href="/">
                                     <h5 className="card-title">Organograma Sarton</h5>
                                 </a>
                                 <p className="card-text">O organograma é uma ferramenta visual que representa a hierarquia e a estrutura de uma empresa ou organização.</p>
@@ -37,7 +37,7 @@ export default function () {
                         </div>
                         <div className="col-md-8">
                             <div className="card-body" id="normas-diretrizes">
-                                <a href="">
+                                <a href="/">
                                     <h5 className="card-title">Normas e diretrizes</h5>
                                 </a>
                                 <p className="card-text">Este é um cartão mais amplo com texto de apoio abaixo como uma entrada natural para
@@ -56,7 +56,7 @@ export default function () {
                         </div>
                         <div className="col-md-8">
                             <div className="card-body" id="normas-diretrizes">
-                                <a href="./pages/mod19.html">
+                                <a href="/mod19">
                                     <h5 className="card-title">Mod 19</h5>
                                 </a>
 

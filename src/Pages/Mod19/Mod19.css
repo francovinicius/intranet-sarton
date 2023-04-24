@@ -1,0 +1,48 @@
+.accordion-button {
+    background-color: #27373f; 
+    color: aliceblue;
+}
+.accordion-button:focus, .accordion-button:active {
+    background-color: #27373f; 
+    color: aliceblue;
+} 
+
+
+.duvidas {
+    margin-bottom: 20rem;
+}
+
+
+.duvidas div h1 {
+    width: 65%;
+}
+
+.duvidas div img {
+    margin-top: 2rem;
+    margin-bottom: 5rem;
+}
+.accordion-itens {
+
+    width: 70%;
+    margin-bottom: .5rem;
+}
+
+
+.duvidas h4 {
+    margin: 4rem 5px 2rem 5px;
+}
+
+
+/* Page Organograma */
+.txt-organo {
+    padding: 1rem
+}
+
+.div-organo {
+    margin-top: 3rem;
+    gap: 2rem;
+}
+
+.div-organo img {
+    width: 80%;
+}
