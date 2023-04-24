@@ -5,7 +5,6 @@ import './index.css';
 import Banner from "./Components/Banner";
 import Header from "./Components/Header";
 import Marketing from "./Components/Marketing";
-import Presentation from "./Components/Presentation";
 import Contacts from "./Components/Contacts";
 import Footer from "./Components/Footer";
 import InfoGerais from "./Pages/InfoGerais";
@@ -17,7 +16,6 @@ root.render(
         <Header />
         <Banner />
         <Marketing />
-        <Presentation />
 
         <Routes>
             <Route path="/" element={<InfoGerais />} />

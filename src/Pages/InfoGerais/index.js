@@ -1,8 +1,14 @@
 import styles from "./InfoGerais.css"
+import Presentation from "./Presentation"
+
 
 export default function () {
     return (
-        <section className="info-gerais" id="info-gerais">
+        <div>
+
+            <Presentation />
+
+            <section className="info-gerais" id="info-gerais">
             <h2>Informações Gerais</h2>
 
             <div className="div-card-info d-flex justify-content-center" id="acuttis-tutoriais">
@@ -84,5 +90,7 @@ export default function () {
 
 
         </section>
+        </div>
+        
     )
 }
