@@ -1,0 +1,38 @@
+.info-gerais {
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+
+.div-card-info {
+    margin: 5rem 0;
+    flex-wrap: wrap;
+    gap: 15px;
+}
+.card-info img {
+    margin: 0 .5rem;
+    padding-top: 20%;
+}
+
+.card-style{
+    width: 350px;
+}
+
+.div-img {
+    width: 90%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.div-img img {
+    width: 10rem;
+    margin-top: -2rem;
+    margin-bottom: .5rem;
+}
+
+.div-column {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}

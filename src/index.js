@@ -8,6 +8,7 @@ import Marketing from "./Components/Marketing";
 import Presentation from "./Components/Presentation";
 import Contacts from "./Components/Contacts";
 import Footer from "./Components/Footer";
+import InfoGerais from "./Pages/InfoGerais";
 
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
@@ -17,6 +18,11 @@ root.render(
         <Banner />
         <Marketing />
         <Presentation />
+
+        <Routes>
+            <Route path="/" element={<InfoGerais />} />
+        </Routes>
+
         <Contacts />
         <Footer />
     </BrowserRouter>
