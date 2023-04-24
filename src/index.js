@@ -5,6 +5,7 @@ import './index.css';
 import Banner from "./Components/Banner";
 import Header from "./Components/Header";
 import Marketing from "./Components/Marketing";
+import Presentation from "./Components/Presentation";
 
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
@@ -13,6 +14,7 @@ root.render(
         <Header />
         <Banner />
         <Marketing />
+        <Presentation />
     </BrowserRouter>
 );
 
