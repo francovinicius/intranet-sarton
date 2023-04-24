@@ -1,0 +1,48 @@
+.cd-border {
+width: 15rem;
+display: flex;
+align-items: center;
+justify-content: center;
+margin-top: -3rem;
+}
+
+:root {
+    --margin-color: #cdcdcd;
+}
+
+
+.marketing {
+
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    
+    gap: 3rem;
+    flex-wrap: wrap;
+
+} 
+
+.marketing h5 {
+    font-size: 18px;
+}
+
+.marketing p {
+    font-size: 12px;
+}
+
+.card-img-top {
+    width: 6.25rem;
+    height: 6.25rem;
+    padding: 1rem;
+}
+
+.margin {
+    width: 95%;
+    margin: 1rem;
+    border-bottom: 0.125rem solid var(--margin-color);
+}
+
+.card {
+    padding: 2rem 0;
+}
