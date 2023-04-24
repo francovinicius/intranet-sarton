@@ -7,6 +7,7 @@ import Header from "./Components/Header";
 import Marketing from "./Components/Marketing";
 import Presentation from "./Components/Presentation";
 import Contacts from "./Components/Contacts";
+import Footer from "./Components/Footer";
 
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
@@ -17,6 +18,7 @@ root.render(
         <Marketing />
         <Presentation />
         <Contacts />
+        <Footer />
     </BrowserRouter>
 );
 
