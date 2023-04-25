@@ -20,12 +20,11 @@ export default function () {
                             </div>
                             <div className="col-md-8">
                                 <div className="card-body" id="normas-diretrizes">
-                                    <a href="/">
-                                        <h5 className="card-title text-center">Treinamento Lasa - Galpão</h5>
+                                    <a href="/treinamentogalpao">
+                                        <h5 className="card-title text-center">Treinamento - Lasa Galpão</h5>
                                     </a>
-                                    <p className="card-text">Este é um cartão mais amplo com texto de apoio abaixo como uma entrada natural para
-                                        conteúdo adicional. Este conteúdo é um pouco mais longo.</p>
-                                    <p className="card-text"><small className="text-muted">Last updated 3 mins ago</small></p>
+                                    <p className="card-text">Card informativo sobre os treinamentos internos da empresa.</p>
+                                    <p className="card-text"><small className="text-muted">Last updated 25-04-2023</small></p>
                                 </div>
                             </div>
                         </div>
@@ -62,7 +61,7 @@ export default function () {
                                     </a>
 
                                     <p className="card-text">Modelo 19 saiba o que é e como preenchê-lo corretamente no link acima.</p>
-                                    <p className="card-text"><small className="text-muted">Last updated: 14 march 2023</small></p>
+                                    <p className="card-text"><small className="text-muted">Last updated: 14-03-2023</small></p>
                                 </div>
                             </div>
                         </div>
@@ -80,7 +79,7 @@ export default function () {
                                         <h5 className="card-title text-center">Duvidas Frequentes</h5>
                                     </a>
                                     <p className="card-text">Problemas com o sistema de ponto? Acesse suporte para obter ajuda no link acima.</p>
-                                    <p className="card-text"><small className="text-muted">Last updated: 07 march 2023</small></p>
+                                    <p className="card-text"><small className="text-muted">Last updated: 07-03-2023</small></p>
                                 </div>
                             </div>
                         </div>
