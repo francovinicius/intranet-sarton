@@ -104,7 +104,7 @@ export default function Mod19 () {
                             <div className="d-flex flex-column justify-content-center align-items-center">
                                 <a href="https://drive.google.com/file/d/1MQwwuHLQhprwg_rBJzk6RTjy-IybCjWw/view?usp=sharing" target="blank"><img src="../assets/img/pages/icon-pdf.svg" alt="mod19" /></a>
                                 <p>
-                                    Baixe o mod 19 clicando no icone acima
+                                    <strong>Baixe o mod 19 clicando no icone acima</strong>
                                 </p>
 
                             </div>

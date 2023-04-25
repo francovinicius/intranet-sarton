@@ -40,8 +40,7 @@ export default function () {
                                     <a href="/">
                                         <h5 className="card-title text-center">Normas e diretrizes</h5>
                                     </a>
-                                    <p className="card-text">Este é um cartão mais amplo com texto de apoio abaixo como uma entrada natural para
-                                        conteúdo adicional. Este conteúdo é um pouco mais longo.</p>
+                                    <p className="card-text">Página em construção.</p>
                                     <p className="card-text"><small className="text-muted">Last updated 3 mins ago</small></p>
                                 </div>
                             </div>
