@@ -54,7 +54,9 @@ export default function () {
                                 <strong>
                                     [Agente]
                                 </strong>
+                            </p>
 
+                            <p>
                                 Reúna as informações necessárias: <strong>nome completo, matrícula, RG, CPF e operação em que
                                     trabalha</strong>
 
@@ -69,7 +71,9 @@ export default function () {
                                 Assine o documento
 
                                 Entregue o documento para o gerente responsável
-
+                            </p>
+                            
+                            <p>
                                 <strong>
                                     [Gerente]
                                 </strong>
