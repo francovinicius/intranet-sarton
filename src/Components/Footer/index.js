@@ -11,17 +11,16 @@ export default function Footer() {
                 <div>
                     <ul class="navbar-nav">
                         <li class="nav-item">
-                            <a class="nav-link" aria-current="page" href="./index.html">Home</a>
+                            <a class="nav-link" aria-current="page" href="/">Home</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="#info-gerais">Informações Gerais</a>
+                            <a class="nav-link" href="/#info-gerais">Informações Gerais</a>
                         </li>
-                        <li class="nav-item"><a class="nav-link" href="#">Ambev</a>
+                        <li class="nav-item"><a class="nav-link" href="#">Treinamentos</a>
                         </li>
-                        <li class="nav-item"><a class="nav-link" href="#">Lojas Americanas</a>
+                        <li class="nav-item"><a class="nav-link" href="/#contatos">Contatos</a>
                         </li>
-                        <li class="nav-item"><a class="nav-link" href="#">Mercado Princesa</a>
-                        </li>
+
                     </ul>
                 </div>
             </div>
