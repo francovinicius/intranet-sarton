@@ -1,6 +1,6 @@
 import styles from "./Mod19.css"
 
-export default function () {
+export default function Mod19 () {
     return (
         <section className="duvidas">
             <div className="d-flex flex-column justify-content-center align-items-center">

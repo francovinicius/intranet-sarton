@@ -75,7 +75,7 @@ export default function () {
                         </div>
                         <div className="col-md-8">
                             <div className="card-body" id="duvidas-acuttis">
-                                <a href="./pages/duvidas-frequentes-acuttis.html">
+                                <a href="/duvidasaccutis">
                                     <h5 className="card-title">Duvidas Frequentes</h5>
                                 </a>
                                 <p className="card-text">Problemas com o sistema de ponto? Acesse suporte para obter ajuda no link acima.</p>

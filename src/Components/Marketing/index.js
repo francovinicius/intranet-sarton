@@ -22,7 +22,7 @@ export default function () {
                 <div class="card-body">
                     <h5 class="card-title">Dúvidas Frequentes</h5>
                     <p class="card-text">Clique no botão abaixo para acessar todo o conteúdo relacionado.</p>
-                    <a href="./pages/duvidas-frequentes-acuttis.html">
+                    <a href="/duvidasaccutis">
                         <button type="button" class="btn btn-primary" data-bs-target="#Info-gerais">
                             Vizualizar Conteúdo
                         </button>
