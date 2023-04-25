@@ -102,7 +102,7 @@ export default function Mod19 () {
                         data-bs-parent="#accordionExample">
                         <div className="accordion-body">
                             <div className="d-flex flex-column justify-content-center align-items-center">
-                                <a href=""><img src="../assets/img/pages/icon-pdf.svg" alt="mod19" /></a>
+                                <a href="https://drive.google.com/file/d/1MQwwuHLQhprwg_rBJzk6RTjy-IybCjWw/view?usp=sharing" target="blank"><img src="../assets/img/pages/icon-pdf.svg" alt="mod19" /></a>
                                 <p>
                                     Baixe o mod 19 clicando no icone acima
                                 </p>
