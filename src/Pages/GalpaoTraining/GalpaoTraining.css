@@ -1,0 +1,10 @@
+.training-tittle {
+    margin: 2rem;
+}
+
+.carousel-training {
+    margin-top: 5rem;
+    margin-bottom: 5rem;
+    width: 80%;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+}

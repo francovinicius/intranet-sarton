@@ -39,6 +39,7 @@
   /* Botões animados */
   
   .middlee {
+    flex-wrap: wrap;
     transform: translateY(-50%);
     width: 100%;
     text-align: center;
@@ -46,10 +47,10 @@
   
   .btnn {
     display: inline-block;
-    width: 90px;
-    height: 90px;
+    width: 50px;
+    height: 50px;
     background: #8f8f91;
-    margin-top: 12rem;
+    margin-top: 15rem;
     margin-right: .5rem;
     border-radius: 30%;
     box-shadow: 0 5px 15px -5px #00000070;
@@ -59,7 +60,7 @@
   }
   
   .btnn i {
-    line-height: 90px;
+    line-height: 50px;
     font-size: 26px;
     transition: 0.2s linear;
   }
@@ -119,5 +120,14 @@
   
     .middlee {
       margin-top: 5rem;
+    }
+
+    .btnn {
+      width: 90px;
+      height: 90px;
+    }
+    .btnn i {
+      line-height: 90px;
+      font-size: 30px;
     }
   }
