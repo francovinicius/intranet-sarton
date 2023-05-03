@@ -1,0 +1,46 @@
+h2 {
+    margin-left: 1rem;
+}
+
+.anv {
+    gap: 10px;
+}
+
+.nome-anv {
+    gap: 5px;
+}
+.aniver-anv {
+    
+}
+
+.circulo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.circulo img { 
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    border: 1px solid aliceblue;
+    margin-top: -7rem;
+}
+
+.div-principal {
+    width: 100%;
+    margin: 8rem 0;
+    padding: 10rem 0;
+
+
+    background: #6094a167;
+    border-radius: 15px;
+    color: #000;
+}
+
+.div-secundaria {
+    margin-top: 3rem;
+    gap: 10px;
+    display: flex;
+    flex-wrap: wrap;
+}

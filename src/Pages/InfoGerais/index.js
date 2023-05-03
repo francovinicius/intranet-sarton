@@ -1,14 +1,14 @@
+import Birthdays from "./Birthdays"
 import styles from "./InfoGerais.css"
 import Presentation from "./Presentation"
 
 
 export default function () {
     return (
-        <div>
-
-            <Presentation />
 
             <section className="info-gerais" id="info-gerais">
+                <Presentation />
+
                 <h2>Informações Gerais</h2>
 
                 <div className="div-card-info d-flex justify-content-center" id="acuttis-tutoriais">
@@ -86,10 +86,10 @@ export default function () {
 
                 </div>
 
-
+                <Birthdays />
 
             </section>
-        </div>
+
 
     )
 }
