@@ -16,7 +16,7 @@ h2 {
     align-items: center;
 }
 
-.circulo img { 
+.circulo img {
     border-radius: 50%;
     width: 200px;
     height: 200px;
@@ -31,6 +31,7 @@ h2 {
 
 
     background: #6094a167;
+    border: 3px solid #FFBC6D;
     border-radius: 15px;
     color: #000;
 }
@@ -40,4 +41,44 @@ h2 {
     gap: 10px;
     display: flex;
     flex-wrap: wrap;
+}
+
+@media screen and (min-width:768px) {
+
+    .div-principal {
+        gap: 2rem;
+        width: 80%;
+    }
+}
+
+@media screen and (min-width:1024px) {
+
+    .div-principal {
+        font-size: 22px;
+    }
+
+    .circulo img {
+        width: 250px;
+        height: 250px;
+    }
+
+    .div-secundaria {
+        gap: 25px;
+    }
+}
+
+@media screen and (min-width:1440px) {
+
+    .div-principal {
+        font-size: 30px;
+    }
+
+    .circulo img {
+        width: 300px;
+        height: 300px;
+    }
+
+    .div-secundaria {
+        gap: 35px;
+    }
 }
