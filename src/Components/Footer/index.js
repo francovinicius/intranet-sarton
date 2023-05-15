@@ -16,8 +16,6 @@ export default function Footer() {
                         <li class="nav-item">
                             <a class="nav-link" href="/#info-gerais">Informações Gerais</a>
                         </li>
-                        <li class="nav-item"><a class="nav-link" href="#">Treinamentos</a>
-                        </li>
                         <li class="nav-item"><a class="nav-link" href="/#contatos">Contatos</a>
                         </li>
 

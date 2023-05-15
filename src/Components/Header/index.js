@@ -20,8 +20,6 @@ export default function Header() {
                         <li className="nav-item">
                             <a className="nav-link" aria-current="page" href="/#info-gerais">Informações Gerais</a>
                         </li>
-                        <li className="nav-item"><a className="nav-link" href="#">Treinamentos</a>
-                        </li>
                         <li className="nav-item">
                             <a className="nav-link" aria-current="page" href="/#contatos">Contatos</a>
                         </li>
