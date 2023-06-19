@@ -1,4 +1,5 @@
 import style from "./Contacts.css"
+import Location  from "./Location"
 
 export default function () {
     return (
@@ -56,6 +57,8 @@ export default function () {
                             </div>
 
                         </div>
+
+                        <Location />
                     </section>
                     )
 }

@@ -1,0 +1,17 @@
+.location>span {
+    margin-top: 3rem;
+}
+
+iframe {
+    width: 97%;
+    height: 15rem;
+    border: 0;
+    margin: 1rem 0 5rem 0;
+}
+
+@media screen and (min-width:1024px) {
+    iframe {
+        width: 80%;
+        height: 20rem;
+    }
+}
