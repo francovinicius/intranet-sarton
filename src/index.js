@@ -11,6 +11,7 @@ import InfoGerais from "./Pages/InfoGerais";
 import Mod19 from "./Pages/Mod19";
 import DuvidasAcuttis from "./Pages/DuvidasAcuttis";
 import GalpaoTraining from "./Pages/GalpaoTraining";
+import SartonNews from "./Pages/SartonNews";
 
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
@@ -25,6 +26,7 @@ root.render(
             <Route path="/mod19" element={<Mod19 />} />
             <Route path="/duvidasaccutis" element={<DuvidasAcuttis />} />
             <Route path="/treinamentogalpao" element={<GalpaoTraining />} />
+            <Route path="/sartonnews" element={<SartonNews />} />
         </Routes>
 
         <Contacts />

@@ -18,6 +18,19 @@ export default function () {
             </div>
 
             <div class="card border-light text-center mb-3 btn-sm cd-border">
+                <img src="./assets/img/sarton-news.svg" class="card-img-top" alt="Logo da Sarton" />
+                <div class="card-body">
+                    <h5 class="card-title">Sarton News</h5>
+                    <p class="card-text">Clique no botão abaixo para acessar todo o conteúdo relacionado.</p>
+                    <a href="/sartonnews"><button type="button" class="btn btn-primary">
+                        Vizualizar Conteúdo
+                    </button></a>
+
+                </div>
+
+            </div>
+
+            <div class="card border-light text-center mb-3 btn-sm cd-border">
                 <img src="./assets/img/acuttis.svg" class="card-img-top" alt="Logo da Sarton" />
                 <div class="card-body">
                     <h5 class="card-title">Dúvidas Frequentes</h5>

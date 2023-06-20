@@ -2,6 +2,10 @@
     background-color: #27373f; 
     color: aliceblue;
 }
+
+.accordion-item {
+    border: none;
+}
 .accordion-button:focus, .accordion-button:active {
     background-color: #27373f; 
     color: aliceblue;

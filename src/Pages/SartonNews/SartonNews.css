@@ -1,0 +1,14 @@
+.sarton-news {
+    margin-top: 5rem;
+    margin-left: 1rem;
+}
+.sarton-news img {
+    border-radius: 16px;
+    width: 15rem;
+    margin: 3rem 0;
+    
+}
+
+.accordion-news {
+    margin-bottom: 10rem;
+}
