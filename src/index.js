@@ -12,6 +12,7 @@ import Mod19 from "./Pages/Mod19";
 import DuvidasAcuttis from "./Pages/DuvidasAcuttis";
 import GalpaoTraining from "./Pages/GalpaoTraining";
 import SartonNews from "./Pages/SartonNews";
+import AssEmail from "./Pages/Email";
 
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
@@ -27,6 +28,8 @@ root.render(
             <Route path="/duvidasaccutis" element={<DuvidasAcuttis />} />
             <Route path="/treinamentogalpao" element={<GalpaoTraining />} />
             <Route path="/sartonnews" element={<SartonNews />} />
+            <Route path="/assinatura_e-mail" element={<AssEmail />} />
+
         </Routes>
 
         <Contacts />
