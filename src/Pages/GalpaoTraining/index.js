@@ -10,34 +10,34 @@ export default function GalpaoTraining() {
             <div id="carouselExampleFade" className="carousel slide carousel-fade carousel-training" data-bs-ride="carousel">
             <div className="carousel-inner">
                 <div className="carousel-item active">
-                    <img src="./assets/img/Treinamento-Lasa/00000.jpg" className="d-block w-100" alt="..." />
+                    <img src="./assets/img/Treinamento-Lasa/00000.svg" className="d-block w-100" alt="..." />
                 </div>
                 <div className="carousel-item">
-                    <img src="./assets/img/Treinamento-Lasa/00001.jpg" className="d-block w-100" alt="..." />
+                    <img src="./assets/img/Treinamento-Lasa/00001.svg" className="d-block w-100" alt="..." />
                 </div>
                 <div className="carousel-item">
-                    <img src="./assets/img/Treinamento-Lasa/00002.jpg" className="d-block w-100" alt="..." />
+                    <img src="./assets/img/Treinamento-Lasa/00002.svg" className="d-block w-100" alt="..." />
                 </div>
                 <div className="carousel-item">
-                    <img src="./assets/img/Treinamento-Lasa/00003.jpg" className="d-block w-100" alt="..." />
+                    <img src="./assets/img/Treinamento-Lasa/00003.svg" className="d-block w-100" alt="..." />
                 </div>
                 <div className="carousel-item">
-                    <img src="./assets/img/Treinamento-Lasa/00004.jpg" className="d-block w-100" alt="..." />
+                    <img src="./assets/img/Treinamento-Lasa/00004.svg" className="d-block w-100" alt="..." />
                 </div>
                 <div className="carousel-item">
-                    <img src="./assets/img/Treinamento-Lasa/00005.jpg" className="d-block w-100" alt="..." />
+                    <img src="./assets/img/Treinamento-Lasa/00005.svg" className="d-block w-100" alt="..." />
                 </div>
                 <div className="carousel-item">
-                    <img src="./assets/img/Treinamento-Lasa/00006.jpg" className="d-block w-100" alt="..." />
+                    <img src="./assets/img/Treinamento-Lasa/00006.svg" className="d-block w-100" alt="..." />
                 </div>
                 <div className="carousel-item">
-                    <img src="./assets/img/Treinamento-Lasa/00007.jpg" className="d-block w-100" alt="..." />
+                    <img src="./assets/img/Treinamento-Lasa/00007.svg" className="d-block w-100" alt="..." />
                 </div>
                 <div className="carousel-item">
-                    <img src="./assets/img/Treinamento-Lasa/00008.jpg" className="d-block w-100" alt="..." />
+                    <img src="./assets/img/Treinamento-Lasa/00008.svg" className="d-block w-100" alt="..." />
                 </div>
                 <div className="carousel-item">
-                    <img src="./assets/img/Treinamento-Lasa/00009.jpg" className="d-block w-100" alt="..." />
+                    <img src="./assets/img/Treinamento-Lasa/00009.svg" className="d-block w-100" alt="..." />
                 </div>
             </div>
             <button className="carousel-control-prev" type="button" data-bs-target="#carouselExampleFade" data-bs-slide="prev">

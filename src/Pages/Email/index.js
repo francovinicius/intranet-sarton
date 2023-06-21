@@ -5,10 +5,10 @@ export default function AssEmail() {
         <section>
             <h2 className="training-tittle">Passo a Passo: Assinatura de E-mail</h2>
 
-        <div className="d-flex justify-content-center">
+            <div className="d-flex justify-content-center">
             <div id="carouselExampleFade" className="carousel slide carousel-fade carousel-training" data-bs-ride="carousel">
             <div className="carousel-inner">
-                <div className="carousel-item">
+                <div className="carousel-item active">
                     <img src="./assets/img/Slide-Ass/image-1.svg" className="d-block w-100" alt="..." />
                 </div>
                 <div className="carousel-item">
@@ -40,6 +40,8 @@ export default function AssEmail() {
             </button>
         </div>
         </div>
+
+
         </section>
     )
 }
