@@ -15,6 +15,27 @@ export default function () {
                 <div className="div-card-info d-flex justify-content-center" id="acuttis-tutoriais">
 
                     <div className="card mb-3 card-info card-style">
+
+                        
+                        <div className="row div-column g-0">
+                            <div className="div-img col-md-4">
+                                <img src="./assets/img/logo.svg" className="img-fluid rounded-start" alt="..." />
+                            </div>
+                            <div className="col-md-8">
+                                <div className="card-body" id="normas-diretrizes">
+                                    <a href="/conta_microsoft">
+                                        <h5 className="card-title text-center">Criação de conta Microsoft</h5>
+                                    </a>
+                                    <p className="card-text">Card informativo sobre o passo a passo para criação de conta Microsoft.</p>
+                                    <p className="card-text"><small className="text-muted">Last updated 21-06-2023</small></p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+
+                    <div className="card mb-3 card-info card-style">
+                        
                         <div className="row div-column g-0">
                             <div className="div-img col-md-4">
                                 <img src="./assets/img/logo.svg" className="img-fluid rounded-start" alt="..." />

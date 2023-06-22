@@ -13,6 +13,7 @@ import DuvidasAcuttis from "./Pages/DuvidasAcuttis";
 import GalpaoTraining from "./Pages/GalpaoTraining";
 import SartonNews from "./Pages/SartonNews";
 import AssEmail from "./Pages/Email";
+import ContaMicrosoft from "./Pages/ContaMicrosoft";
 
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
@@ -29,6 +30,8 @@ root.render(
             <Route path="/treinamentogalpao" element={<GalpaoTraining />} />
             <Route path="/sartonnews" element={<SartonNews />} />
             <Route path="/assinatura_e-mail" element={<AssEmail />} />
+            <Route path="/conta_microsoft" element={<ContaMicrosoft />} />
+            
 
         </Routes>
 
