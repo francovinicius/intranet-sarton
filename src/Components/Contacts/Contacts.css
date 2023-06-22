@@ -67,7 +67,7 @@
   
   .btnn:hover i {
     transform: scale(1.3);
-    color: #272729;
+    color: #fdfdfd;
   }
   
   .btnn::before {
